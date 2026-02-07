@@ -54,20 +54,22 @@ and modern data stack solutions. Currently contributing to healthcare data analy
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=utsavpaudel&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavpaudel&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+![Profile Views](https://komarev.com/ghpvc/?username=utsavpaudel&color=brightgreen&style=flat-square)
+![Followers](https://img.shields.io/github/followers/utsavpaudel?style=flat-square&color=blue)
 
 </div>
 
-**Key Stats:**
-- 🔭 Contributing to open-source healthcare data analytics (Tuva Project)
-- 🌱 Specializing in dbt, Python, and data engineering
-- 📊 Active in data analysis, face recognition, and algorithm projects
+**Current Contributions:**
+- 🔭 **Tuva Project** - Healthcare data analytics platform (Shell, JavaScript, dbt)
+- 🐍 **Python Projects** - Face recognition, data analysis, algorithms
+- 📊 **Data Analysis** - Netflix EDA, exploratory analysis, visualizations
+- 🛠️ **Modern Stack** - Docker, CI/CD, dbt transformations
+
+**Primary Languages:** Python • SQL • JavaScript • Shell
 
 ---
 
