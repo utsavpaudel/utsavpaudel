@@ -56,9 +56,15 @@ and modern data stack solutions. Currently contributing to healthcare data analy
 
 ## 📊 GitHub Stats
 
-![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavpaudel&show_icons=true&theme=default)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavpaudel&layout=compact)
+![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavpaudel&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavpaudel&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utsavpaudel&theme=transparent&hide_border=true)
+
+</div>
 
 ---
 
