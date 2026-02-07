@@ -58,13 +58,16 @@ and modern data stack solutions. Currently contributing to healthcare data analy
 
 <div align="center">
 
-![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavpaudel&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=utsavpaudel&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavpaudel&layout=compact&theme=transparent&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utsavpaudel&theme=transparent&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavpaudel&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
+
+**Key Stats:**
+- 🔭 Contributing to open-source healthcare data analytics (Tuva Project)
+- 🌱 Specializing in dbt, Python, and data engineering
+- 📊 Active in data analysis, face recognition, and algorithm projects
 
 ---
 
